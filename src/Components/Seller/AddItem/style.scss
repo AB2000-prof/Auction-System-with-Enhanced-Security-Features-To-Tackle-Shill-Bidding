@@ -1,0 +1,29 @@
+.displayImg{
+    width:100px;
+    height: 100px;
+    margin-top:10px;
+    margin-left: 5px;
+
+}
+
+.upload-btn{
+    background-color: #3f51b5;
+     color: white;
+     padding: 10px;
+    border-radius: 4px;
+      margin-top:20px;
+}
+
+.img-wrap {
+    display: inline-block;
+    position: relative;
+    width:120px;
+    height: 100px;
+    margin-top: 10px;
+}
+.img-wrap .close {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    z-index: 100;
+}

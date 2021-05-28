@@ -1,4 +1,4 @@
-Code Reference: 
+Code Reference: A Link to the source code and how its been implemented and changed.
 Signup/index.js:
 https://github.com/mui-org/material-ui/blob/master/docs/src/pages/getting-started/templates/sign-up/SignUp.js
 Signup page ui template from material ui. Customized according to need of product.
@@ -117,12 +117,15 @@ Admin /AllProducts/index.js:
 https://github.com/mui-org/material-ui/blob/master/docs/src/pages/getting-started/templates/album/Album.js
 Material ui album template, used for showing products.
 
+
 Admin /ProductPage/index.js:
 https://github.com/mui-org/material-ui/blob/master/docs/src/pages/getting-started/templates/blog/FeaturedPost.js
 FeaturedPost page ui template from material ui. Used to show details of product.
 
+
 https://www.npmjs.com/package/react-material-ui-carousel
 Library used to show product images.
+
 
 https://material-ui.com/components/tables/
 Table template from material ui to show bid log.
@@ -160,5 +163,4 @@ Table template from material ui to show bid log.
 
 
 
-![image](https://user-images.githubusercontent.com/77801823/119912822-18d98a00-bf54-11eb-95f5-df8b8f888fd3.png)
 

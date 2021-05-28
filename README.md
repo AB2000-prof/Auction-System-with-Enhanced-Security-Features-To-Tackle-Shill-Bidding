@@ -2,8 +2,11 @@ How to run the Web Application:
 
  - Download the folder onto your system.
  - CD into the folder
- - Install Yarn on terminal
- - Yarn run
+ - Run 'Install Yarn' on terminal
+ - Once Yarn has installed, run 'Yarn' to install the dependices.
+ - Once 'Yarn' has completed installing, Please write the command ' Yarn run'
+ - Once you write the command 'Yarn run' you will be provided with four options, Type in 'Start' into the terminal
+ - The development server should start to load up, please give it at least 30-45 seconds before refreshing the page as it loads slowly since its a new system
  - The Page should load up with 3 Login Options
  - Buyer Account: Buyer@gmail.com  Password: BuyerTest  
  - Seller Account: Seller@gmail.com Password: SellerTest    

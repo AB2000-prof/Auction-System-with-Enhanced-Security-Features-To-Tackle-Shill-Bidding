@@ -1,4 +1,23 @@
-Code Reference: A Link to the source code and how its been implemented and changed.
+How to run the Web Application:
+
+ - Download the folder onto your system.
+ - CD into the folder
+ - Install Yarn on terminal
+ - Yarn run
+ - The Page should load up with 3 Login Options
+ - Buyer Account: Buyer@gmail.com  Password: BuyerTest  
+ - Seller Account: Seller@gmail.com Password: SellerTest    
+ - Admin Account: admin@gmail.com Password: 123456
+ - Please bear in mind that they're case sensitive, In order to create and use your own accounts you have to login onto the admin module and approve the account before once you have signed up. An Admin account cannot be created, please login to the admin module with the details provided.
+ -  Appendix also has Images of the Application running live.
+
+Location of the Code: 
+
+
+Below I will provide references for the code which has been reused, and why it has been used.
+
+Code Referencing: 
+
 Signup/index.js:
 https://github.com/mui-org/material-ui/blob/master/docs/src/pages/getting-started/templates/sign-up/SignUp.js
 Signup page ui template from material ui. Customized according to need of product.

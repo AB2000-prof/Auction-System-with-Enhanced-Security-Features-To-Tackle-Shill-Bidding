@@ -12,7 +12,12 @@ How to run the Web Application:
  -  Appendix also has Images of the Application running live.
 
 Location of the Code: 
-
+ public > SRC > Components 
+ public > SRC > Redux
+ public > SRC > Redux
+ 
+ 
+Explanation of Commenting: I have made comments throughout the files, usually at the top of a block of code to maintain an elegant appearance.
 
 Below I will provide references for the code which has been reused, and why it has been used.
 

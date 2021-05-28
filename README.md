@@ -8,7 +8,7 @@ How to run the Web Application:
  - Buyer Account: Buyer@gmail.com  Password: BuyerTest  
  - Seller Account: Seller@gmail.com Password: SellerTest    
  - Admin Account: admin@gmail.com Password: 123456
- - Please bear in mind that they're case sensitive, In order to create and use your own accounts you have to login onto the admin module and approve the account before once you have signed up. An Admin account cannot be created, please login to the admin module with the details provided.
+ - Please bear in mind that they're case sensitive, In order to create and use your own accounts you have register and then approve the account from the admin mdoule, then you will be able to login. An Admin account cannot be created unless done from the Database, please use the info given above.
  -  Appendix also has Images of the Application running live.
 
 Location of the Code: I will provide three examples to help the reader, easily find the code

@@ -19,7 +19,9 @@ Location of the Code: I will provide three examples to help the reader, easily f
   - Public > SRC > Components
   - Public > SRC > Redux
   - Public > SRC > Config > Firebase.js
-  - 
+  
+ Live demonstration of the Web application on youtube: 
+ https://www.youtube.com/watch?v=Rwht5thP3II 
  
 
  

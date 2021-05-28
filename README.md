@@ -1,70 +1,164 @@
-# Getting Started with Create React App
+Code Reference: 
+Signup/index.js:
+https://github.com/mui-org/material-ui/blob/master/docs/src/pages/getting-started/templates/sign-up/SignUp.js
+Signup page ui template from material ui. Customized according to need of product.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://reactstrap.github.io/components/alerts/
+Used for showing errors
 
-## Available Scripts
+Home/index.js:
+https://github.com/mui-org/material-ui/blob/master/docs/src/pages/getting-started/templates/sign-in-side/SignInSide.js
+SigninSide page ui template from material ui. Used as homepage and customized according to need of product.
 
-In the project directory, you can run:
+SignInAsBuyer/index.js:
+https://github.com/mui-org/material-ui/blob/master/docs/src/pages/getting-started/templates/sign-up/SignUp.js
+Signin page ui template from material ui. Customized according to need of product.
 
-### `yarn start`
+https://reactstrap.github.io/components/alerts/
+Used for showing errors
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+SignInAsSeller/index.js:
+https://github.com/mui-org/material-ui/blob/master/docs/src/pages/getting-started/templates/sign-up/SignUp.js
+Signin page ui template from material ui. Customized according to need of product.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+https://reactstrap.github.io/components/alerts/
+Used for showing errors
+Seller/Dashboard/index.js:
+Seller/Sidebar/index.js:
+Seller/Toolbar/index.js:
+https://paulgrajewski.medium.com/react-material-ui-drawer-with-routes-8e27c91b6119
+React router integrated with material ui template. Used for setting up Toolbar, Dashboard and Sidebar.
 
-### `yarn test`
+Seller/ViewItems/index.js:
+https://github.com/mui-org/material-ui/blob/master/docs/src/pages/getting-started/templates/album/Album.js
+Material ui album template, used for showing products.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Seller/AddItem/index.js:
+https://github.com/mui-org/material-ui/blob/master/docs/src/pages/getting-started/templates/sign-in-side/SignInSide.js
+Signin page ui template from material ui. Used as a form to add products.
 
-### `yarn build`
+https://www.npmjs.com/package/react-firebase-file-uploader
+Library used to upload images to firebase
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Seller/EditProduct/index.js:
+https://github.com/mui-org/material-ui/blob/master/docs/src/pages/getting-started/templates/sign-in-side/SignInSide.js
+Signin page ui template from material ui. Used as a form to add products.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+https://www.npmjs.com/package/react-firebase-file-uploader
+Library used to upload images to firebase
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+Seller/ProductPage/index.js:
+https://github.com/mui-org/material-ui/blob/master/docs/src/pages/getting-started/templates/blog/FeaturedPost.js
+FeaturedPost page ui template from material ui. Used to show details of product.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+https://www.npmjs.com/package/react-material-ui-carousel
+Library used to show product images.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+https://material-ui.com/components/tables/
+Table template from material ui to show bid log.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Buyer/AddComplaint/index.js:
+https://github.com/mui-org/material-ui/blob/master/docs/src/pages/getting-started/templates/sign-in-side/SignInSide.js
+Signin page ui template from material ui. Used as a form to add complaints.
 
-## Learn More
+Buyer/Dashboard/index.js:
+Buyer /Sidebar/index.js:
+Buyer /Toolbar/index.js:
+https://paulgrajewski.medium.com/react-material-ui-drawer-with-routes-8e27c91b6119
+React router integrated with material ui template. Used for setting up Toolbar, Dashboard and Sidebar.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Buyer/Home/index.js:
+https://github.com/mui-org/material-ui/blob/master/docs/src/pages/getting-started/templates/album/Album.js
+Material ui album template, used for showing products.
+Buyer/ProductPage/index.js:
+https://github.com/mui-org/material-ui/blob/master/docs/src/pages/getting-started/templates/blog/FeaturedPost.js
+FeaturedPost page ui template from material ui. Used to show details of product.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+https://www.npmjs.com/package/react-material-ui-carousel
+Library used to show product images.
 
-### Code Splitting
+https://material-ui.com/components/tables/
+Table template from material ui to show bid log.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Admin/AllBuyers/index.js:
+https://material-ui.com/components/tables/
+Table template from material ui to show list of buyers.
 
-### Analyzing the Bundle Size
+Admin/AllSellers/index.js:
+https://material-ui.com/components/tables/
+Table template from material ui to show list of sellers.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Admin/BiddingLogModal/index.js:
+https://material-ui.com/components/tables/
+Table template from material ui to show list of bidding log of a buyer.
 
-### Making a Progressive Web App
+Admin/ProductBiddingLogModal/index.js:
+https://material-ui.com/components/tables/
+Table template from material ui to show bidding log of product.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+Admin/FlaggedBuyers/index.js:
+https://material-ui.com/components/tables/
+Table template from material ui to show list of flagged buyers.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Admin/FlaggedProducts/index.js:
+https://material-ui.com/components/tables/
+Table template from material ui to show list of flagged products.
 
-### Deployment
+Admin/Dashboard/index.js:
+Admin /Sidebar/index.js:
+Admin /Toolbar/index.js:
+https://paulgrajewski.medium.com/react-material-ui-drawer-with-routes-8e27c91b6119
+React router integrated with material ui template. Used for setting up Toolbar, Dashboard and Sidebar.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Admin /AllProducts/index.js:
+https://github.com/mui-org/material-ui/blob/master/docs/src/pages/getting-started/templates/album/Album.js
+Material ui album template, used for showing products.
 
-### `yarn build` fails to minify
+Admin /ProductPage/index.js:
+https://github.com/mui-org/material-ui/blob/master/docs/src/pages/getting-started/templates/blog/FeaturedPost.js
+FeaturedPost page ui template from material ui. Used to show details of product.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://www.npmjs.com/package/react-material-ui-carousel
+Library used to show product images.
+
+https://material-ui.com/components/tables/
+Table template from material ui to show bid log.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/77801823/119912822-18d98a00-bf54-11eb-95f5-df8b8f888fd3.png)
+

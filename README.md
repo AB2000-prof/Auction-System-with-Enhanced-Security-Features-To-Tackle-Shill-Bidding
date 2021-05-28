@@ -1,3 +1,6 @@
+Live demonstration of the Web application on youtube - Feel free to watch if you are struggling to run the application
+ https://www.youtube.com/watch?v=Rwht5thP3II 
+
 How to run the Web Application: Must have Node.js installed locally.
 
  - Download the folder onto your system.
@@ -20,8 +23,7 @@ Location of the Code: I will provide three examples to help the reader, easily f
   - Public > SRC > Redux
   - Public > SRC > Config > Firebase.js
   
- Live demonstration of the Web application on youtube: 
- https://www.youtube.com/watch?v=Rwht5thP3II 
+
  
 
  

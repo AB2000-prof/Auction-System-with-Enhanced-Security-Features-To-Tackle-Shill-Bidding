@@ -1,4 +1,4 @@
-How to run the Web Application:
+How to run the Web Application: Must have Node.js installed locally.
 
  - Download the folder onto your system.
  - CD into the folder

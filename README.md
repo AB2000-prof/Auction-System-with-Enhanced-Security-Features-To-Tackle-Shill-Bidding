@@ -11,10 +11,14 @@ How to run the Web Application:
  - Please bear in mind that they're case sensitive, In order to create and use your own accounts you have to login onto the admin module and approve the account before once you have signed up. An Admin account cannot be created, please login to the admin module with the details provided.
  -  Appendix also has Images of the Application running live.
 
-Location of the Code: 
- public > SRC > Components 
- public > SRC > Redux
- public > SRC > Redux
+Location of the Code: I will provide three examples to help the reader, easily find the code
+
+  - Public > SRC > Components
+  - Public > SRC > Redux
+  - Public > SRC > Config > Firebase.js
+  - 
+ 
+
  
  
 Explanation of Commenting: I have made comments throughout the files, usually at the top of a block of code to maintain an elegant appearance.
